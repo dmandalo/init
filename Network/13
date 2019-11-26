@@ -1,0 +1,5 @@
+# last command
+ifconfig en0 | grep "inet " | awk '{print $2}'
+# ip (was 192.168.31.54)
+nslookup 192.168.31.54 | grep name | awk '{print $4}'
+ga-h6.21-school.ru.

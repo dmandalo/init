@@ -1,0 +1,3 @@
+ssh dmandalo@10.0.2.15
+# ifconfig
+# esli ne rabotaet postavit paket <sudo apt install net-tools>

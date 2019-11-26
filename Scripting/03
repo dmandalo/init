@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "rate this :"
+read this
+echo "great script!"
+echo "Thanks for evaluation"

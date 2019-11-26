@@ -1,0 +1,2 @@
+# IP address of the DNS server:
+cat /var/run/resolv.conf

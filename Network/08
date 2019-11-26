@@ -1,0 +1,5 @@
+# find ip-adress
+nslookup slash16.org
+# ip request
+ whois 52.84.197.41
+# or https://www.nic.ru/whois/
